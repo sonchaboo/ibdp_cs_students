@@ -1,0 +1,5 @@
+N_players: 3
+ N_cv: 4
+Player_1: ['Gallic  - Ambiorix', 'Spanish - Philip II', 'Ottoman - Suleiman', 'Egyptian - Cleopatra']
+Player_2: ['Gran Colombian - Simón Bolívar', 'Japanese - Hojo Tokimune', 'Aztec - Montezuma', 'Macedonian - Macedonian']
+Player_3: ['Mayan - Lady Six Sky', 'Phoenician - Dido', 'Byzantine  - Basil II', 'Greek - Pericles']
